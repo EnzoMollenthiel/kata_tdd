@@ -19,4 +19,11 @@ public class FizzBuzzTest {
         assertEquals("Should return Fizz if the integer is dividable by 3", "Fizz", fizzBuzz.fizzbuzz(n));
     }
 
+    @Test
+    public void fizzbuzz_should_return_buzz_if_dividable_by_five() throws Exception {
+        int n = 5;
+
+        assertEquals("Should return Buzz if the integer is dividable by 3", "Buzz", fizzBuzz.fizzbuzz(n));
+    }
+
 }

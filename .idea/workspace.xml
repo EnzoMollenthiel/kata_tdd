@@ -38,13 +38,33 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="Gradle.FizzBuzzTest">
+  <component name="RunManager" selected="Gradle.FizzBuzzTest.fizzbuzz_should_return_buzz_if_dividable_by_five">
     <configuration name="FizzBuzzTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" value="--tests &quot;FizzBuzzTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="FizzBuzzTest.fizzbuzz_should_return_buzz_if_dividable_by_five" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;FizzBuzzTest.fizzbuzz_should_return_buzz_if_dividable_by_five&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -81,6 +101,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.FizzBuzzTest.fizzbuzz_should_return_buzz_if_dividable_by_five" />
         <item itemvalue="Gradle.FizzBuzzTest" />
         <item itemvalue="Gradle.FizzBuzzTest.fizzbuzz_should_return_empty_string_if_not_dividable_by_three_or_five" />
       </list>
@@ -104,21 +125,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1874" height="356" key="GridCell.Tab.0.bottom" timestamp="1583490452861">
+    <state width="1874" height="356" key="GridCell.Tab.0.bottom" timestamp="1583490526163">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state width="1874" height="356" key="GridCell.Tab.0.bottom/0.27.1920.988@0.27.1920.988" timestamp="1583490452861" />
-    <state width="1874" height="356" key="GridCell.Tab.0.center" timestamp="1583490452860">
+    <state width="1874" height="356" key="GridCell.Tab.0.bottom/0.27.1920.988@0.27.1920.988" timestamp="1583490526163" />
+    <state width="1874" height="356" key="GridCell.Tab.0.center" timestamp="1583490526161">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state width="1874" height="356" key="GridCell.Tab.0.center/0.27.1920.988@0.27.1920.988" timestamp="1583490452860" />
-    <state width="1874" height="356" key="GridCell.Tab.0.left" timestamp="1583490452860">
+    <state width="1874" height="356" key="GridCell.Tab.0.center/0.27.1920.988@0.27.1920.988" timestamp="1583490526161" />
+    <state width="1874" height="356" key="GridCell.Tab.0.left" timestamp="1583490526160">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state width="1874" height="356" key="GridCell.Tab.0.left/0.27.1920.988@0.27.1920.988" timestamp="1583490452860" />
-    <state width="1874" height="356" key="GridCell.Tab.0.right" timestamp="1583490452861">
+    <state width="1874" height="356" key="GridCell.Tab.0.left/0.27.1920.988@0.27.1920.988" timestamp="1583490526160" />
+    <state width="1874" height="356" key="GridCell.Tab.0.right" timestamp="1583490526162">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state width="1874" height="356" key="GridCell.Tab.0.right/0.27.1920.988@0.27.1920.988" timestamp="1583490452861" />
+    <state width="1874" height="356" key="GridCell.Tab.0.right/0.27.1920.988@0.27.1920.988" timestamp="1583490526162" />
   </component>
 </project>
