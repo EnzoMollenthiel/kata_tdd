@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31886435-5438-4836-ae7e-b70107a81d71" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/FizzBuzz.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/FizzBuzz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/FizzBuzzTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/FizzBuzzTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-FizzBuzzTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-FizzBuzzTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FizzBuzz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FizzBuzzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FizzBuzzTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +127,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583488620575</updated>
-      <workItem from="1583488624956" duration="3069000" />
+      <workItem from="1583488624956" duration="3220000" />
     </task>
     <servers />
   </component>
@@ -126,22 +135,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1874" height="356" key="GridCell.Tab.0.bottom" timestamp="1583491698777">
+    <state width="1874" height="356" key="GridCell.Tab.0.bottom" timestamp="1583491898274">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state width="1874" height="356" key="GridCell.Tab.0.bottom/0.27.1920.988@0.27.1920.988" timestamp="1583491698777" />
-    <state width="1874" height="356" key="GridCell.Tab.0.center" timestamp="1583491698777">
+    <state width="1874" height="356" key="GridCell.Tab.0.bottom/0.27.1920.988@0.27.1920.988" timestamp="1583491898274" />
+    <state width="1874" height="356" key="GridCell.Tab.0.center" timestamp="1583491898274">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state width="1874" height="356" key="GridCell.Tab.0.center/0.27.1920.988@0.27.1920.988" timestamp="1583491698777" />
-    <state width="1874" height="356" key="GridCell.Tab.0.left" timestamp="1583491698776">
+    <state width="1874" height="356" key="GridCell.Tab.0.center/0.27.1920.988@0.27.1920.988" timestamp="1583491898274" />
+    <state width="1874" height="356" key="GridCell.Tab.0.left" timestamp="1583491898274">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state width="1874" height="356" key="GridCell.Tab.0.left/0.27.1920.988@0.27.1920.988" timestamp="1583491698776" />
-    <state width="1874" height="356" key="GridCell.Tab.0.right" timestamp="1583491698777">
+    <state width="1874" height="356" key="GridCell.Tab.0.left/0.27.1920.988@0.27.1920.988" timestamp="1583491898274" />
+    <state width="1874" height="356" key="GridCell.Tab.0.right" timestamp="1583491898274">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state width="1874" height="356" key="GridCell.Tab.0.right/0.27.1920.988@0.27.1920.988" timestamp="1583491698777" />
+    <state width="1874" height="356" key="GridCell.Tab.0.right/0.27.1920.988@0.27.1920.988" timestamp="1583491898274" />
     <state width="1874" height="318" key="GridCell.Tab.1.bottom" timestamp="1583490965008">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
