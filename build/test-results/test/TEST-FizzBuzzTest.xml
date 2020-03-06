@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="FizzBuzzTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-03-06T10:51:38" hostname="enzo-VivoBook-ASUSLaptop-X530FN-S530FN" time="0.002">
+<testsuite name="FizzBuzzTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-03-06T10:52:57" hostname="enzo-VivoBook-ASUSLaptop-X530FN-S530FN" time="0.001">
   <properties/>
-  <testcase name="fizzBuzz_should_return_fizzBuzz_if_dividable_by_three_and_five" classname="FizzBuzzTest" time="0.001"/>
+  <testcase name="fizzBuzz_should_return_fizzBuzz_if_dividable_by_three_and_five" classname="FizzBuzzTest" time="0.0"/>
   <testcase name="fizzBuzz_should_return_fizz_if_dividable_by_three" classname="FizzBuzzTest" time="0.0"/>
   <testcase name="fizzBuzz_should_return_buzz_if_dividable_by_five" classname="FizzBuzzTest" time="0.0"/>
   <testcase name="fizzBuzz_should_return_empty_string_if_not_dividable_by_three_or_five" classname="FizzBuzzTest" time="0.0"/>
