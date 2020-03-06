@@ -1,6 +1,6 @@
 public class FizzBuzz {
 
-    public  String fizzBuzz(int n) {
+    public String fizzBuzz(int n) {
         String result = "";
 
         if(n % 3 == 0) result = "Fizz";
@@ -8,5 +8,4 @@ public class FizzBuzz {
 
         return result;
     }
-
 }
