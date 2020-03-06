@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31886435-5438-4836-ae7e-b70107a81d71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FizzBuzzTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FizzBuzz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +37,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Gradle.FizzBuzzTest.fizzbuzz_should_return_empty_string_if_not_dividable_by_three_or_five">
     <configuration name="FizzBuzzTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -64,8 +58,29 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="FizzBuzzTest.fizzbuzz_should_return_empty_string_if_not_dividable_by_three_or_five" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;FizzBuzzTest.fizzbuzz_should_return_empty_string_if_not_dividable_by_three_or_five&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.FizzBuzzTest.fizzbuzz_should_return_empty_string_if_not_dividable_by_three_or_five" />
         <item itemvalue="Gradle.FizzBuzzTest" />
       </list>
     </recent_temporary>
@@ -80,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583488620575</updated>
-      <workItem from="1583488624956" duration="966000" />
+      <workItem from="1583488624956" duration="1236000" />
     </task>
     <servers />
   </component>
@@ -88,21 +103,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1874" height="511" key="GridCell.Tab.0.bottom" timestamp="1583489815846">
+    <state width="1874" height="283" key="GridCell.Tab.0.bottom" timestamp="1583489879676">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state width="1874" height="511" key="GridCell.Tab.0.bottom/0.27.1920.988@0.27.1920.988" timestamp="1583489815846" />
-    <state width="1874" height="511" key="GridCell.Tab.0.center" timestamp="1583489815845">
+    <state width="1874" height="283" key="GridCell.Tab.0.bottom/0.27.1920.988@0.27.1920.988" timestamp="1583489879676" />
+    <state width="1874" height="283" key="GridCell.Tab.0.center" timestamp="1583489879676">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state width="1874" height="511" key="GridCell.Tab.0.center/0.27.1920.988@0.27.1920.988" timestamp="1583489815845" />
-    <state width="1874" height="511" key="GridCell.Tab.0.left" timestamp="1583489815844">
+    <state width="1874" height="283" key="GridCell.Tab.0.center/0.27.1920.988@0.27.1920.988" timestamp="1583489879676" />
+    <state width="1874" height="283" key="GridCell.Tab.0.left" timestamp="1583489879675">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state width="1874" height="511" key="GridCell.Tab.0.left/0.27.1920.988@0.27.1920.988" timestamp="1583489815844" />
-    <state width="1874" height="511" key="GridCell.Tab.0.right" timestamp="1583489815845">
+    <state width="1874" height="283" key="GridCell.Tab.0.left/0.27.1920.988@0.27.1920.988" timestamp="1583489879675" />
+    <state width="1874" height="283" key="GridCell.Tab.0.right" timestamp="1583489879676">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state width="1874" height="511" key="GridCell.Tab.0.right/0.27.1920.988@0.27.1920.988" timestamp="1583489815845" />
+    <state width="1874" height="283" key="GridCell.Tab.0.right/0.27.1920.988@0.27.1920.988" timestamp="1583489879676" />
   </component>
 </project>
