@@ -1,8 +1,12 @@
 public class FizzBuzz {
 
     public  String fizzbuzz(int n) {
+        String result = "";
 
-        return n % 3 == 0 ? "Fizz" : "";
+        if(n % 3 == 0) result = "Fizz";
+        else if (n % 5 == 0) result = "Buzz";
+
+        return result;
     }
 
 }
