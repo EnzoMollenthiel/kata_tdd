@@ -11,4 +11,12 @@ public class FizzBuzzTest {
 
         assertEquals("", fizzBuzz.fizzbuzz(n));
     }
+
+    @Test
+    public void fizzbuzz_should_return_fizz_if_dividable_by_three() throws Exception {
+        int n = 3;
+
+        assertEquals("Fizz", fizzBuzz.fizzbuzz(n));
+    }
+
 }
